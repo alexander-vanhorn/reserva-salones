@@ -11,6 +11,6 @@
     <title>Document</title>
 </head>
 <body>
-    Hola mundo
+    Hola mundo ideal
 </body>
 </html>
