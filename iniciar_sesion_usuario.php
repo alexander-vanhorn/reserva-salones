@@ -15,11 +15,14 @@
     <title>Iniciar sesion</title>
 </head>
 <body>
-    <form action="post" name="sesion" >
+    <form action='view\inicio.php' method="post" name="sesion" >
         <h3>Iniciar Sesion</h3>
         <label for="username">Usuario <input type="text"></label> <br>
         <label for="password">Contraseña<input type="password"></label> <br>
-        <input type="submit" value="Enviar" >
+        
+        <input type="submit" value="Enviar">
+        
+        
 
     </form>
     

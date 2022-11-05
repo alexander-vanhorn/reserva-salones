@@ -26,7 +26,7 @@
     <img src="images\logo_utp_1_300.png" class="logo-utp">
     
     <h2>&nbsp; Universidad Tecnológica de Panamá</h2>
-    <h3>&nbsp; Sistema automatizado de reserva de salones</h3><br>
+    <h3>&nbsp; Sistema automatizado de reserva de salones (Admin)</h3><br>
 </div>
 
 

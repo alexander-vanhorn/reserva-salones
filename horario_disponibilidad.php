@@ -12,7 +12,7 @@
     
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.min.js" integrity="sha384-IDwe1+LCz02ROU9k972gdyvl+AESN10+x7tBKgc9I5HFtuNz0wWnPclzo6p9vxnk" crossorigin="anonymous"></script>
-    <title>Historial de reserva de salones</title>
+    <title>Disponibilidad</title>
 
     <link rel="shortcut icon" href="images\logo_utp_1_300.png" type="image/x-icon">
     <link rel="stylesheet" href="css\horario-disponibilidad.css">
@@ -63,8 +63,14 @@
     </table>
 
     <br>
+<a href="view\inicio.php">
+<button type="button" class="btn btn-primary">Atrás</button>
+</a>
 
-    <button type="button" class="btn btn-primary">Atrás</button>
+<a href="view\confirmacion.php">
+<button type="button" class="btn btn-primary">Siguiente</button>
+</a>
+    
 </div>
 
 
