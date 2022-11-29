@@ -1,0 +1,14 @@
+.table{
+    table-layout: auto;
+    width: 80%;
+}
+
+.logo-utp{
+    float: left;
+    width: 7%;
+    height: 7%;
+}
+
+footer{
+    text-align: center;
+}
