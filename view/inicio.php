@@ -7,6 +7,17 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="../CSS/calendar.css">
   <body>
+    <nav class="navbar navbar-light bg-light">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="">
+          <img src="../images/logo_utp_1_300.png" alt="" width="100" height="100" class="d-inline-block align-text-top">
+          <h1>Bienvenido</h1>
+        </a>
+        <ul>
+          <a class="nav-link p-3" href="../iniciar_sesion_usuario.php" style="background-color: #ffffff">Cerrar Sesión</a>
+        </ul>
+      </div>
+    </nav> 
     <section class="ftco-section">
       <div class="container">
         <div class="row justify-content-center">
