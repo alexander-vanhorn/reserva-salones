@@ -13,6 +13,12 @@
 
 
     <title>Iniciar sesion</title>
+    <script type="text/javascript">
+        window.history.forward();
+        function noBack() {
+            window.history.forward();
+        }
+    </script>
 </head>
 <body>
     <form action='view\inicio.php' method="post" name="sesion" >
