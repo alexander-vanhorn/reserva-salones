@@ -1,0 +1,22 @@
+form{
+    background-color: gainsboro;
+    max-width: 300px;
+    width: 100%;
+    padding: 25px 30px;
+    border-radius: 5px;
+   
+}
+
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    padding: 10px; 
+}
+
+label{
+    display: flex;
+    justify-content: space-between;
+}
+
