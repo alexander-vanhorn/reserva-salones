@@ -5,7 +5,7 @@
 }
 
 .logo-utp{
-    float: left;
+    align-items: center;
     width: 7%;
     height: 7%;
 }
